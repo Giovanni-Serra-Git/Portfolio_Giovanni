@@ -16,10 +16,10 @@ const projects = [
     img: "/map.jpg",
   },
   {
-    title: "fit gym website app",
-    url: "https://web-app-gym.netlify.app/",
-    description: "This demo project includes gym opening hours, promotions and an internal application where you can search for targeted exercises. The application was created by retrieving data through Rapid Api. For trying the application just go to the exercise section, then click on the *go to rapid api* button",
-    img: "/gym.png",
+    title: "Quiz Dishes",
+    url: "https://quiz-dishes.netlify.app/",
+    description: "An application with typical dishes from different countries with an integrated rating system.",
+    img: "/quiz.jpg",
   },
   {
     title: "fit gym website app",
@@ -82,7 +82,7 @@ function App() {
         <div className="about-me">
         <p className="text-[1.1rem] pt-[1rem]">I'm a front end developer eager to join a company in order to learn the job from experts.</p>
         <p className="text-[1.1rem] pt-[1rem]">My current knowledge is <span className="highlight">Html</span>, <span className="highlight">Css</span>, <span className="highlight">Javascript</span> and <span className="highlight">React</span>.</p>
-        <p className="text-[1.1rem] pt-[1rem]">I also have basics knowledge of    <span className="highlight">Git</span>, <span className="highlight">React</span> <span className="highlight">Redux</span> - <span className="highlight">React Router</span>, and <span className="highlight">Tailwind Css</span></p>
+        <p className="text-[1.1rem] pt-[1rem]">I also have basics knowledge of    <span className="highlight">Git</span>, <span className="highlight">React</span> <span className="highlight">Redux - Redux Toolkit</span> - <span className="highlight">React Router</span>, and <span className="highlight">Tailwind Css</span></p>
         <p className="text-[1.1rem]">My goal is to build websites that are visually appealing and intuitive to navigate.</p>
         <p className="text-[1.1rem] pt-[1rem]">I use simple yet effective colors to create the structure and organization of the site.</p> 
         <p className="text-[1.1rem] pt-[1rem]">I always strive to improve the final result I deliver to users and pay close attention to how the site is represented.</p>  
