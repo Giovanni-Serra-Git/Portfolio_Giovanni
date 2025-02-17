@@ -22,6 +22,18 @@ const projects = [
     img: "/quiz.jpg",
   },
   {
+    title: "pool builders website",
+    url: "https://deapiscine.it/",
+    description: "A website for pool builders. The site has an integrated feature with four different languages. I chose a simple yet functional design to represent what the company does",
+    img: "/piscine.png",
+  },
+  {
+    title: "beauty center website",
+    url: "https://esteticaunoraperte.it/",
+    description: "A beauty aesthetics website I created for a client. I primarily focused on an innovative design and aimed for light and eye-pleasing colors.",
+    img: "/centro_estetico.png",
+  },
+  {
     title: "fit gym website app",
     url: "https://web-app-gym.netlify.app/",
     description: "This demo project includes gym opening hours, promotions and an internal application where you can search for targeted exercises. The application was created by retrieving data through Rapid Api. For trying the application just go to the exercise section, then click on the *go to rapid api* button",
@@ -44,19 +56,7 @@ const projects = [
     url: "https://app-imdb-clone.netlify.app/",
     description: "A simple version of IMDB website. I created this demo in order to practice the tech stack I learned.Built with React, React Router, React Redux, Material UI, Styled Component",
     img: "/imdb.png",
-  },
-  {
-    title: "pool builders website",
-    url: "https://deapiscine.it/",
-    description: "A website for pool builders. The site has an integrated feature with four different languages. I chose a simple yet functional design to represent what the company does",
-    img: "/piscine.png",
-  },
-  {
-    title: "beauty center website",
-    url: "https://esteticaunoraperte.it/",
-    description: "A beauty aesthetics website I created for a client. I primarily focused on an innovative design and aimed for light and eye-pleasing colors.",
-    img: "/centro_estetico.png",
-  },
+  }
 ]
 
 function App() {
