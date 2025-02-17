@@ -4,6 +4,24 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 const projects = [
   {
+    title: "Pizzeria App",
+    url: "https://pizza-take-away-react.netlify.app/",
+    description: "An app to order pizzas quickly and easily! Based on the Fast React Pizza Co. API, it allows users to fake login, order pizzas and remove them from the cart.",
+    img: "/pizzeria.jpg",
+  },
+  {
+    title: "Mark places you visited",
+    url: "https://map-app-places.netlify.app/",
+    description: "An application that provides interaction with the map to mark points of interest with markers, specifically the places visited.",
+    img: "/map.jpg",
+  },
+  {
+    title: "fit gym website app",
+    url: "https://web-app-gym.netlify.app/",
+    description: "This demo project includes gym opening hours, promotions and an internal application where you can search for targeted exercises. The application was created by retrieving data through Rapid Api. For trying the application just go to the exercise section, then click on the *go to rapid api* button",
+    img: "/gym.png",
+  },
+  {
     title: "fit gym website app",
     url: "https://web-app-gym.netlify.app/",
     description: "This demo project includes gym opening hours, promotions and an internal application where you can search for targeted exercises. The application was created by retrieving data through Rapid Api. For trying the application just go to the exercise section, then click on the *go to rapid api* button",
